@@ -54,9 +54,9 @@ const YearCard = ({ year, label, gpa, sem1, sem2, totalCredits }) => (
 
 const YearlyBreakdown = () => {
   const academicYears = [
-    { year: "Year 01", label: "Freshman Year", gpa: "3.37", sem1: { grade: "3.31" }, sem2: { grade: "3.37" }, totalCredits: 43 },
-    { year: "Year 02", label: "Sophomore Year", gpa: "3.48", sem1: { grade: "3.44" }, sem2: { grade: "3.48" }, totalCredits: 84 },
-    { year: "Year 03", label: "Junior Year", gpa: "3.52", sem1: { grade: "3.52" }, sem2: { grade: "3.52" }, totalCredits: 122 },
+    { year: "Year 01", label: "Freshman Year", gpa: "3.43", sem1: { grade: "3.31" }, sem2: { grade: "3.37" }, totalCredits: 43 },
+    { year: "Year 02", label: "Sophomore Year", gpa: "3.59", sem1: { grade: "3.44" }, sem2: { grade: "3.48" }, totalCredits: 84 },
+    { year: "Year 03", label: "Junior Year", gpa: "3.68", sem1: { grade: "3.52" }, sem2: { grade: "รอ" }, totalCredits: 122 },
   ];
 
   return (

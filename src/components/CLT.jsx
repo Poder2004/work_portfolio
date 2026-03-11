@@ -13,7 +13,7 @@ const CLT = ({ onBack }) => {
             imageAlt: "Children interacting in classroom",
             pdfUrl: "https://drive.google.com/file/d/1MI-jRwY1ju6xmqwvzD9t0ZSyIfZy5it4/view?usp=sharing", // ใส่ลิงก์จริงที่นี่
             slideUrl: "https://docs.google.com/presentation/d/1tiFFM7tTDx87fvDw0W3wAWGOZvUTnyVq/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            videoUrl: "https://youtu.be/Fwc45sqfRrY"
         },
         {
             grade: "Grade 9",
@@ -23,7 +23,7 @@ const CLT = ({ onBack }) => {
             imageAlt: "Teenagers discussing topics",
             pdfUrl: "https://drive.google.com/file/d/1t-tB1ymudQoz85o9gWrEN9dWCxeAOz3l/view?usp=sharing", // ใส่ลิงก์จริงที่นี่
             slideUrl: "https://docs.google.com/presentation/d/1tbHbkNRq2Mt-bT2lWdEKBhGoRN4TfBuN/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            videoUrl: "https://youtu.be/LjSaVMLPS3w"
         },
 
     ];

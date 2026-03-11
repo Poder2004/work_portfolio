@@ -12,9 +12,9 @@ const CLIL = ({ onBack }) => {
             title: "Different Environment",
             imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuCg2fgi5oiYDTxJ4sVisxCbVG6vNsvzuRfaidH-UDItYSYtkU_9zF_M7DPCLzLjakQymL4nLeWtJHgCzOpovhdCaOPf6mUdW9nGfSpk5YxrNeScBGR7Rew9b2XC5o6Os9ZMTYmAb1efjEIqbsN--4JZeqYYTn23b-46gZ6c7CdF5sXw3Y_H2LlGxsomlxT71VOtzuVRrWV4xKRRBqeZynG_1vyILe9X7ObpSM6EeigKtNGhZ4wnEqA5p0FDjL3x7_w9yqYnzV8FBdCy",
             imageAlt: "Teenagers discussing topics",
-            pdfUrl: "https://drive.google.com/file/d/1t-tB1ymudQoz85o9gWrEN9dWCxeAOz3l/view?usp=sharing",
-            slideUrl: "https://docs.google.com/presentation/d/1tbHbkNRq2Mt-bT2lWdEKBhGoRN4TfBuN/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            pdfUrl: "https://drive.google.com/file/d/1DdOUmdL1C_rcTnPCjUK3Jbvk3vEq25wJ/view?usp=sharing",
+            slideUrl: "https://docs.google.com/presentation/d/15c3f7rxHs4ztGv9hgABcXyKYx9XTyQ87/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
+            videoUrl: "https://youtu.be/WHnZDhXwHqw?si=e0vJ2SRDZ0va5gd6"
         },
     ];
 

@@ -12,9 +12,9 @@ const Reading = ({ onBack }) => {
             title: "Animal",
             imageUrl: "https://img2.clipart-library.com/28/happy-animals-clipart/happy-animals-clipart-9.jpg",
             imageAlt: "Children interacting in classroom",
-            pdfUrl: "https://drive.google.com/file/d/1rQZBi3dHjZWicj3lu-cuYMdHUZ9yTx8r/view?usp=sharing", // ใส่ลิงก์จริงที่นี่
-            slideUrl: "https://docs.google.com/presentation/d/1FODGavTSWD6-Rsk08cvCqQwyJKmZrWjo/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            pdfUrl: "https://drive.google.com/file/d/1rQZBi3dHjZWicj3lu-cuYMdHUZ9yTx8r/view?usp=drive_link", // ใส่ลิงก์จริงที่นี่
+            slideUrl: "https://docs.google.com/presentation/d/1FODGavTSWD6-Rsk08cvCqQwyJKmZrWjo/edit?usp=drive_link&ouid=110929478797396051725&rtpof=true&sd=true",
+            videoUrl: "https://youtu.be/KKmzuwPg6Lg"
         },
 
 

@@ -12,9 +12,9 @@ const Speaking = ({ onBack }) => {
             title: "Family",
             imageUrl: "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=1200&auto=format&fit=crop",
             imageAlt: "Teenagers discussing topics",
-            pdfUrl: "https://drive.google.com/file/d/1t-tB1ymudQoz85o9gWrEN9dWCxeAOz3l/view?usp=sharing",
-            slideUrl: "https://docs.google.com/presentation/d/1raoNv1CFLJkiin_19ZV0JjTzxPrtaOVt/edit?usp=sharing",
-            videoUrl: "https://example.com/food-drinks-video"
+            pdfUrl: "https://drive.google.com/file/d/1FCZ3BnI6EeCh5tbbt0Rd0IYCgTt0c4pw/view?usp=drive_link",
+            slideUrl: "https://docs.google.com/presentation/d/1raoNv1CFLJkiin_19ZV0JjTzxPrtaOVt/edit?usp=drive_link&ouid=110929478797396051725&rtpof=true&sd=true",
+            videoUrl: "https://youtu.be/-OwrzJ15B9I"
         },
     ];
 

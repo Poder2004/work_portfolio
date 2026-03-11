@@ -11,9 +11,9 @@ const Listening = ({ onBack }) => {
             title: "Animal",
             imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuDOdGKMrFTIX8lPfIz9nepz8QPXuIwkP7SE8WjLGBIOZ6Kz-f2NuP29NxrLvjcH0exe7ugj8Eg_Mehc-g9XTJ3DFr4sumzBawPYgqQVl44nXaKyWtWFHGIi6AmNiHJ3eHhx5oEkh1aqJCwXAkm01SdMhKdVhDp3ilGfN28WyEzEoNwe3UDanMg7JaRJmTnrXuCnlkXxYTNr4NhtM9LdNK_0J65Z0oayi1L-pyWlIUyMXUGJI-KnlurVTI1gIWp-N36pkuy7ShsRkf0C",
             imageAlt: "Children interacting in classroom",
-            pdfUrl: "https://drive.google.com/file/d/1eZWzQbhIVuzDhEUzTIg1RkWgQL2usnSt/view?usp=sharing", // ใส่ลิงก์จริงที่นี่
-            slideUrl: "https://docs.google.com/presentation/d/1lHPA4tVQecHGIYGLd04PE8GtG1WEIS-j/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            pdfUrl: "https://drive.google.com/file/d/1eZWzQbhIVuzDhEUzTIg1RkWgQL2usnSt/view?usp=drive_link", // ใส่ลิงก์จริงที่นี่
+            slideUrl: "https://docs.google.com/presentation/d/1lHPA4tVQecHGIYGLd04PE8GtG1WEIS-j/edit?usp=drive_link&ouid=110929478797396051725&rtpof=true&sd=true",
+            videoUrl: "https://youtu.be/7xLgqsCpN_A"
         },
 
 

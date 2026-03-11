@@ -14,7 +14,7 @@ const CBI = ({ onBack }) => {
             imageAlt: "Teenagers discussing topics",
             pdfUrl: "https://drive.google.com/file/d/1bjgoD3Jrv66hLO0qOYyAKpkvRziHKzi8/view?usp=sharing", // ใส่ลิงก์จริงที่นี่
             slideUrl: "https://docs.google.com/presentation/d/1MTpXa0twINRqeZAsUkRCpr2FNQghAaeM/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
-            videoUrl: "https://example.com/food-drinks-video"
+            videoUrl: "https://youtu.be/fibTgVea4so?si=5jKF978-m2gMo1iy"
         },
 
     ];

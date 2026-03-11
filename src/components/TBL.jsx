@@ -12,9 +12,9 @@ const TBL = ({ onBack }) => {
             title: "Tourist Attractions",
             imageUrl: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070&auto=format&fit=crop",
             imageAlt: "Children interacting in classroom",
-            pdfUrl: "https://drive.google.com/file/d/1MI-jRwY1ju6xmqwvzD9t0ZSyIfZy5it4/view?usp=sharing",
-            slideUrl: "https://docs.google.com/presentation/d/1tiFFM7tTDx87fvDw0W3wAWGOZvUTnyVq/edit?usp=sharing",
-            videoUrl: "https://example.com/food-drinks-video"
+            pdfUrl: "https://drive.google.com/file/d/1_JOjSfWA6-Pv8xuwLAIXLxxowU4eHVoh/view?usp=sharing",
+            slideUrl: "https://docs.google.com/presentation/d/1JAoLQKZN9h2yT66LHvwv2pSILAtqQ0_a/edit?usp=sharing&ouid=110929478797396051725&rtpof=true&sd=true",
+            videoUrl: "https://youtu.be/meYAMAi985Q"
         },
         // เพิ่มข้อมูลตัวอย่างเพื่อดู Grid
 

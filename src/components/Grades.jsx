@@ -26,7 +26,7 @@ const Grades = () => {
               <circle className="text-purple-600" cx="50" cy="50" fill="transparent" r="44" stroke="currentColor" strokeWidth="7" strokeDasharray="190" strokeDashoffset="30" strokeLinecap="round"></circle>
             </svg>
             <div className="absolute inset-0 flex flex-col items-center justify-center">
-              <span className="text-4xl font-bold text-slate-800 dark:text-white tracking-tighter">3.52</span>
+              <span className="text-4xl font-bold text-slate-800 dark:text-white tracking-tighter">3.68</span>
               <span className="text-lg uppercase font-bold text-purple-400 tracking-widest">GPA</span>
             </div>
           </div>

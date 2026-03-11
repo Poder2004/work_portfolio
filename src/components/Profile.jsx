@@ -35,11 +35,8 @@ const Profile = () => {
 
                     <div className="text-center md:text-left flex-1">
                         <h1 className="text-3xl md:text-4xl font-bold text-slate-900 mb-2">Miss Jidapa Thanandorn</h1>
-                        <p className="text-purple-600 font-medium text-lg mb-4">Dedicated academic professional and lifelong learner.</p>
-                        <p className="text-slate-600 leading-relaxed max-w-2xl">
-                            Enthusiastic researcher with a focus on human-centered design and educational technology.
-                            Committed to bridging the gap between theoretical frameworks and practical applications.
-                        </p>
+                        
+                        
 
                         <div className="flex flex-wrap justify-center md:justify-start gap-4 mt-6">
                             <div className="flex items-center gap-2 text-lg text-slate-500 bg-purple-50 px-3 py-1.5 rounded-full">
