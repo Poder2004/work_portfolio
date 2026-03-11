@@ -1,28 +1,53 @@
 import React from 'react';
 import { HiOutlineAcademicCap, HiOutlineExternalLink } from "react-icons/hi"; // นำเข้าไอคอนสวยๆ
 import profilePic from '../assets/IMG_9150.JPG';
+import C1Pic from '../assets/1.JPG';
+import C2Pic from '../assets/2.JPG';
+import C3Pic from '../assets/3.png';
+import C4Pic from '../assets/4.png';
+import C5Pic from '../assets/5.png';
+import C6Pic from '../assets/6.png';
+
 
 
 const Home = ({ setCurrentPage }) => {
   // ข้อมูลเกียรติบัตร (สามารถเพิ่มลดได้จากตรงนี้)
   const certificates = [
     {
-      title: "Digital Literacy Certificate",
-      issuer: "ICDL Foundation",
-      year: "2023",
-      image: "https://via.placeholder.com/400x300?text=Certificate+1" // เปลี่ยนเป็น path รูปจริงของคุณ
-    },
-    {
-      title: "English Pedagogy Workshop",
-      issuer: "Mahasarakham University",
-      year: "2023",
-      image: "https://via.placeholder.com/400x300?text=Certificate+2"
-    },
-    {
-      title: "Outstanding Student Award",
+      title: "Kon Pun Kru (EDU Camp)",
       issuer: "Faculty of Education",
-      year: "2022",
-      image: "https://via.placeholder.com/400x300?text=Certificate+3"
+      year: "2024",
+      image: C1Pic // เปลี่ยนเป็น path รูปจริงของคุณ
+    },
+    {
+      title: "Scout camp for teacher",
+      issuer: "Nong Wa Non Thong School Scout Camp",
+      year: "2025",
+      image: C3Pic
+    },
+    {
+      title: "EIS English camp",
+      issuer: "Somdetpittayaform School",
+      year: "2024",
+      image: C6Pic
+    },
+     {
+      title: "Kru Eng Term fun pun Roi Yim 2nd camp",
+      issuer: "Chongkon Kitti Khachon Witthaya School",
+      year: "2023",
+      image: C4Pic
+    },
+    {
+      title: "Kru Eng Term fun pun Roi Yim 3rd camp",
+      issuer: "Bungklawittayakom friendship 194 School",
+      year: "2024",
+      image: C5Pic
+    },
+    {
+      title: "Kru Eng Term fun pun Roi Yim 4th camp",
+      issuer: "Ban Nonbor School",
+      year: "2025",
+      image: C2Pic
     }
   ];
 
@@ -72,10 +97,10 @@ const Home = ({ setCurrentPage }) => {
             </div>
             <div>
               <h3 className="text-3xl font-black text-slate-900 tracking-tight">Certificates</h3>
-              <p className="text-slate-500 font-medium">Recognition of my academic & professional journey</p>
+              <p className="text-slate-500 font-medium">Recognition of my academic</p>
             </div>
           </div>
-          <button className="text-purple-600 font-bold hover:underline underline-offset-8">View All</button>
+          {/* <button className="text-purple-600 font-bold hover:underline underline-offset-8">View All</button> */}
         </div>
 
         {/* Certificate Grid - Responsive: 1 col (mobile), 2 cols (tablet), 3 cols (desktop) */}
@@ -92,9 +117,9 @@ const Home = ({ setCurrentPage }) => {
                   alt={cert.title}
                   className="w-full h-full object-cover grayscale-[0.5] group-hover:grayscale-0 transition-all duration-500"
                 />
-                <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                {/* <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                   <HiOutlineExternalLink className="text-white text-4xl" />
-                </div>
+                </div> */}
               </div>
 
               {/* Text Info */}
