@@ -97,7 +97,7 @@ const Home = ({ setCurrentPage }) => {
             </div>
             <div>
               <h3 className="text-3xl font-black text-slate-900 tracking-tight">Certificates</h3>
-              <p className="text-slate-500 font-medium">Recognition of my academic</p>
+              <p className="text-xl text-slate-500 font-medium">Recognition of my academic</p>
             </div>
           </div>
           {/* <button className="text-purple-600 font-bold hover:underline underline-offset-8">View All</button> */}
